@@ -1,4 +1,5 @@
-// SurveyField contains logic to render a single label and text input
+// SurveyField contains logic to render a single
+// label and text input
 import React from 'react';
 // nested destructuring
 export default ({ input, label, meta: { error, touched } }) => {
